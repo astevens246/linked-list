@@ -9,7 +9,3 @@ print(dll.head.data)
 dll.append(12)
 print(dll.head.next)
 print(dll.head.next.previous.data)
-
-
-
-
